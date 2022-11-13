@@ -1,4 +1,4 @@
-# An example of ML Application with the pretrained model and tests.
+# An example of ML Application with the pretrained model of Short Russian texts sentiment classification
 
 Пример для определения тональности текста на русском языке с помощью библиотеки Hugging Face
 
