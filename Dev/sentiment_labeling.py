@@ -1,7 +1,7 @@
 import pandas as pd
 from transformers import pipeline
 
-df = pd.read_csv('https://raw.githubusercontent.com/YaRoLit/ml_test/b6fdcf22e4822b10f72a179c9ab3661b4cf40334/chat.csv',
+df = pd.read_csv('https://raw.githubusercontent.com/YaRoLit/ml_test/main/Dev/Data/chat.csv',
                  encoding='utf-16',
                  sep='\t',
                  header=None,
